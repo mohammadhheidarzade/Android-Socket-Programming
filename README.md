@@ -1,5 +1,5 @@
 # Android-Socket-Programming
 
-Client is android studio project
+Client is an android studio project
 
-Server is java project -> you can run it in Ide like Intellij
+Server is a java project -> you can run it in Ide like Intellij
